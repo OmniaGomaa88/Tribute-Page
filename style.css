@@ -1,0 +1,26 @@
+body{
+    background-color: #d6d2d2;
+    
+}
+header{
+    text-align: center;
+   
+}
+div{
+    background-color: aliceblue;
+    margin: 10px;
+    width: auto;
+    height: 200px;
+}
+h2{
+    font-size: 20px;
+    font-weight: 200;
+}
+section{
+ float: right;
+ width:70%;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
