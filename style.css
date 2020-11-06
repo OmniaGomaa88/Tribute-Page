@@ -6,11 +6,16 @@ header{
     text-align: center;
    
 }
+img{
+padding: 20px;
+padding-top: 10px;
+height: auto;
+}
 div{
     background-color: aliceblue;
     margin: 10px;
     width: auto;
-    height: 200px;
+    height: 450px;
 }
 h2{
     font-size: 20px;
